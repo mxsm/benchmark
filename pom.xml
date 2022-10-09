@@ -10,6 +10,7 @@
 
     <modules>
         <module>dledger-benchmark</module>
+        <module>mapstruct-benchmark</module>
     </modules>
 
     <packaging>pom</packaging>
