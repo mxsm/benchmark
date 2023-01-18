@@ -11,6 +11,7 @@
     <modules>
         <module>dledger-benchmark</module>
         <module>mapstruct-benchmark</module>
+        <module>java-base-benchmark</module>
     </modules>
 
     <packaging>pom</packaging>
