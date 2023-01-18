@@ -12,6 +12,7 @@
         <module>dledger-benchmark</module>
         <module>mapstruct-benchmark</module>
         <module>java-base-benchmark</module>
+        <module>concurrenthashmap-benchmark</module>
     </modules>
 
     <packaging>pom</packaging>
